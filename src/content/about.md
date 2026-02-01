@@ -1,18 +1,39 @@
-# About This Site
+# 关于我
 
-Twilight is a CMS integrated static blog template built with [Astro](https://astro.build) framework.
+我喜欢在安静处整理思绪，也喜欢在日常里寻找微光。  
+写作、记录、搭建这些数字空间，对我来说是一种温柔的自我照料。
 
-::github{repo="Spr-Aachen/Twilight"}
+这个网站是我给自己留的一方小小庭院。  
+在这里，我写下所见、所思、所感，也写下那些不想遗失的瞬间。
 
+---
 
-## Milestones
+## 关于本站
 
-- Integrated content management system in [#1](https://github.com/Spr-Aachen/Twilight/pull/1)
-- Seamless wallpaper mode switching in [#2](https://github.com/Spr-Aachen/Twilight/pull/2)
-- Dynamic content container response in [#47](https://github.com/Spr-Aachen/Twilight/pull/47)
-- Seamless page component loading in [#48](https://github.com/Spr-Aachen/Twilight/pull/48)
-- Smart music playback handling in [#49](https://github.com/Spr-Aachen/Twilight/pull/49)
-- Infinite-level navigation system in [#50](https://github.com/Spr-Aachen/Twilight/pull/50)
-- Comprehensive statistics dashboard in [#51](https://github.com/Spr-Aachen/Twilight/pull/51)
-- Low-barrier configuration scheme in [#58](https://github.com/Spr-Aachen/Twilight/pull/58)
-- Dynamic breakpoint handling in [#68](https://github.com/Spr-Aachen/Twilight/pull/68)
+Twilight 是我基于 Astro 搭建的个人博客。  
+我希望它是：
+
+- 干净的  
+- 轻盈的  
+- 可呼吸的  
+- 有温度的  
+
+我会在这里记录：
+
+- 生活里的微光  
+- 学习与思考  
+- 技术与折腾  
+- 以及那些值得被保存的片刻
+
+---
+
+## 为什么写
+
+写，是一种观照。  
+观日常，照本心。
+
+---
+
+## 联系方式
+
+- GitHub：`acuherblab`
