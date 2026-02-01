@@ -67,7 +67,7 @@ site:
             # 为多张图片启用轮播，否则随机显示一张图片
             enable: true
             # 轮播间隔时间 (秒)
-            interval: 3.6
+            interval: 5
             # 启用 Ken Burns 效果
             kenBurns: true
         # Banner 模式专属配置
@@ -90,11 +90,11 @@ site:
                     # 启用副标题打字机效果
                     enable: true
                     # 打字速度 (毫秒)
-                    speed: 120
+                    speed: 150
                     # 删除速度 (毫秒)
-                    deleteSpeed: 60
+                    deleteSpeed: 80
                     # 完全显示后的暂停时间 (毫秒)
-                    pauseTime: 3000
+                    pauseTime: 3500
             # 横幅图片来源文本
             credit:
                 # 显示横幅图片来源文本
