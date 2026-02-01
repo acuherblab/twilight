@@ -77,18 +77,22 @@ site:
                 # 在主页显示文本
                 enable: true
                 # 主标题
-                title: "Twilight"
+                title: "在安静处，照见自己"
                 # 副标题，支持单个字符串或字符串数组
                 subtitle:
-                    - "Illuminate Our Paths"
+                    - "把日常过成喜欢的样子"
+                    - "愿每一刻都被温柔照亮"
+                    - "写给未来，也写给当下"
+                    - "让知识成为温柔的力量"
+                    - "写，是最好的整理"
                 # 副标题打字机效果
                 typewriter:
                     # 启用副标题打字机效果
                     enable: true
                     # 打字速度 (毫秒)
-                    speed: 111
+                    speed: 120
                     # 删除速度 (毫秒)
-                    deleteSpeed: 51
+                    deleteSpeed: 60
                     # 完全显示后的暂停时间 (毫秒)
                     pauseTime: 3000
             # 横幅图片来源文本
