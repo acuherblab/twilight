@@ -37,7 +37,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 const adapter = process.env.CF_PAGES ? cloudflarePages() : vercel({ mode: "serverless" });
 
 export default defineConfig({
-    site: "https://blog.acuherb.xyz/",
+    site: siteConfig.siteURL,
     base: "/",
     trailingSlash: "always",
     adapter: adapter,
