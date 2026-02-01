@@ -395,31 +395,31 @@ musicPlayer:
                 # 路径
                 url: "assets/music/水-羽-归来.flac"
                 # 时长
-                duration: 146
+                duration: 296
             - id: 2
                 title: "木-角-姑苏行"
                 artist: "五行音乐"
                 cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
                 url: "assets/music/木-角-姑苏行.flac"
-                duration: 183
+                duration: 260
             - id: 3
                 title: "火-徵-紫竹调"
                 artist: "五行音乐"
                 cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
                 url: "assets/music/火-徵-紫竹调.flac"
-                duration: 210
+                duration: 110
             - id: 4
                 title: "土-宫-十面埋伏"
                 artist: "五行音乐"
                 cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
                 url: "assets/music/土-宫-十面埋伏.flac"
-                duration: 200
+                duration: 327
             - id: 5
                 title: "金-商-阳春白雪"
                 artist: "五行音乐"
                 cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
                 url: "assets/music/金-商-阳春白雪.flac"
-                duration: 257
+                duration: 205
     # 是否自动播放
     autoplay: true
 
