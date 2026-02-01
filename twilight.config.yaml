@@ -154,7 +154,7 @@ site:
 # Umami统计配置
 umami:
     # 是否显示Umami统计
-    enabled: false
+    enabled: true
     # UmamiCloudAPI地址
     baseUrl: "https://api.umami.is"
     # API密钥 (可用环境变量覆盖)
@@ -265,7 +265,7 @@ profile:
             # 图标
             icon: "fa6-brands:github"
             # 链接
-            url: "hhttps://github.com/acuherb"
+            url: "https://github.com/acuherb"
 
 # 公告配置
 announcement:
