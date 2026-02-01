@@ -77,7 +77,7 @@ site:
                 # 在主页显示文本
                 enable: true
                 # 主标题
-                title: "在安静处，照见自己"
+                title: "致虚极，守静笃"
                 # 副标题，支持单个字符串或字符串数组
                 subtitle:
                     - "把日常过成喜欢的样子"
@@ -254,9 +254,9 @@ profile:
     # 头像配置 (相对于 /public 目录)
     avatar: "/assets/images/avatar.jpg"
     # 信息配置
-    name: "Twilight"
+    name: "观颐"
     # 简介配置
-    bio: "Hi"
+    bio: "欢迎来到我的博客！"
     # 链接配置
     links:
         - # 链接示例
@@ -265,7 +265,7 @@ profile:
             # 图标
             icon: "fa6-brands:github"
             # 链接
-            url: "https://github.com/Spr-Aachen/Twilight"
+            url: "hhttps://github.com/acuherb"
 
 # 公告配置
 announcement:
@@ -307,13 +307,13 @@ post:
     # 评论配置
     comment:
         # 启用评论功能
-        enable: false
+        enable: true
         # Twikoo 评论系统配置
         twikoo:
             # 环境 ID
-            envId: "https://twikoo.vercel.app"
+            envId: "https://twikoo-vigdraw.netlify.app/.netlify/functions/twikoo"
             # 语言
-            lang: "en"
+            lang: "zh"
 
 # 页脚配置
 footer:
@@ -368,7 +368,7 @@ musicPlayer:
     # 启用音乐播放器功能
     enable: true
     # 默认模式 ("meting" API | "local" 本地)
-    mode: "meting"
+    mode: "local"
     # meting 模式专属配置
     meting:
         # Meting API 地址
@@ -387,15 +387,39 @@ musicPlayer:
                 # 序号
                 id: 1
                 # 标题
-                title: "深海之息"
+                title: "水-羽-归来"
                 # 作者
-                artist: "Youzee Music"
+                artist: "五行音乐"
                 # 封面
-                cover: "https://p1.music.126.net/PhKOqFtljgHDDpKYM2ADUA==/109951169858309716.jpg"
+                cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
                 # 路径
-                url: "assets/music/深海之息.m4a"
+                url: "assets/music/水-羽-归来.flac"
                 # 时长
                 duration: 146
+            - id: 2
+                title: "木-角-姑苏行"
+                artist: "五行音乐"
+                cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
+                url: "assets/music/木-角-姑苏行.flac"
+                duration: 183
+            - id: 3
+                title: "火-徵-紫竹调"
+                artist: "五行音乐"
+                cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
+                url: "assets/music/火-徵-紫竹调.flac"
+                duration: 210
+            - id: 4
+                title: "土-宫-十面埋伏"
+                artist: "五行音乐"
+                cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
+                url: "assets/music/土-宫-十面埋伏.flac"
+                duration: 200
+            - id: 5
+                title: "金-商-阳春白雪"
+                artist: "五行音乐"
+                cover: "https://dailybing.com/webps/fef80c30f45a64d94a1dcd814c1b9a95dec84395.webp"
+                url: "assets/music/金-商-阳春白雪.flac"
+                duration: 257
     # 是否自动播放
     autoplay: true
 
