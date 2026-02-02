@@ -6,6 +6,7 @@ backend:
     site_domain: blog.acuherb.xyz # 请替换为您的域名
     base_url: https://blog.acuherb.xyz/  # 请替换为您的 URL
     auth_endpoint: oauth # OAuth 路由由集成提供
+    app_id: 0v2311LDMlGph31hbnVe
 
 
 # 媒体目录配置
