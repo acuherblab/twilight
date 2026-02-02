@@ -1,17 +1,17 @@
 # 后台系统配置
 backend:
     name: github
-    repo: acuherblab/twilight # 请替换为您的 GitHub 仓库
+    repo: acuherblab/twilight-source # 请替换为您的 GitHub 仓库
     branch: main # 请替换为您的分支名称
     site_domain: blog.acuherb.xyz # 请替换为您的域名
     base_url: https://blog.acuherb.xyz/  # 请替换为您的 URL
     auth_endpoint: oauth # OAuth 路由由集成提供
-    app_id: 0v2311LDMlGph31hbnVe
+    app_id: 0v2311LDMlGph31hbnVe # 请替换为您的 OAuth 应用 ID
 
 
 # 媒体目录配置
-media_folder: "public/images" # 媒体文件存储路径
-public_folder: "/images" # 公共访问路径
+media_folder: "public/uploads" # 媒体文件存储路径
+public_folder: "/uploads" # 公共访问路径
 
 
 # 集合管理配置
